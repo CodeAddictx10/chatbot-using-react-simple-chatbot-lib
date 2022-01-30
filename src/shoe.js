@@ -1,0 +1,111 @@
+const shoes = [
+    {
+        id: 1,
+        name: "Sneakers",
+        url:
+            "https://threadcurve.com/wp-content/uploads/2021/01/sneakers-unisex-jan062021-min.jpg.webp",
+        price: "6000",
+        description: "Sociosqu facilisis duis ...",
+        brand: "FabDecor",
+        color: "White",
+        size: "38-44",
+    },
+
+    {
+        id: 2,
+        name: "Boots (Women and Men)",
+        url:
+            "https://threadcurve.com/wp-content/uploads/2021/01/types-of-boots-apr052021.jpg.webp",
+        price: "5000",
+        description: "Sociosqu facilisis duis ...",
+        brand: "Wasui",
+        color: "Red, Black, White",
+        size: "33-48",
+    },
+    {
+        id: 3,
+        name: "Clogs",
+        url:
+            "https://threadcurve.com/wp-content/uploads/2021/01/clogs-jan6.jpg.webp",
+        price: "6500",
+        description: "Sociosqu facilisis duis ...",
+        brand: "Yresiw",
+        color: "Red, Blue",
+        size: "33-40",
+    },
+    {
+        id: 4,
+        name: "Crocs",
+        url:
+            "https://threadcurve.com/wp-content/uploads/2021/01/crocs-unisex-jan062021-min.jpg.webp",
+        price: "3500",
+        description: "Sociosqu facilisis duis ...",
+        brand: "Oxsegr",
+        color: "Black",
+        size: "30-40",
+    },
+    {
+        id: 5,
+        name: "Earth Shoes",
+        url: "https://m.media-amazon.com/images/I/31rxpHdpidL.jpg",
+        price: "3500",
+        description: "Sociosqu facilisis duis ...",
+        brand: "opeorr",
+        color: "Yellow, Light-Blue",
+        size: "30-40",
+    },
+    {
+        id: 6,
+        name: "Flip-Flops",
+        url: "https://m.media-amazon.com/images/I/41umFJV606L.jpg",
+        price: "6000",
+        description: "Sociosqu facilisis duis ...",
+        brand: "Xwriay",
+        color: "Brown",
+        size: "39",
+    },
+    {
+        id: 7,
+        name: "Galoshes",
+        url:
+            "https://threadcurve.com/wp-content/uploads/2021/01/galoshes-unisex-jan062021-min.jpg.webp",
+        price: "5500",
+        description: "Sociosqu facilisis duis ...",
+        brand: "Qauiz",
+        color: "Black",
+        size: "30-49",
+    },
+    {
+        id: 8,
+        name: "Huaraches",
+        url: "https://m.media-amazon.com/images/I/412UqrwZjCL.jpg",
+        price: "8000",
+        description: "Sociosqu facilisis duis ...",
+        brand: "Ytuix",
+        color: "Black and White",
+        size: "30-45",
+    },
+    {
+        id: 9,
+        name: "Jika-tabi Shoes",
+        url: "https://m.media-amazon.com/images/I/419w2Xe2xcL.jpg",
+        price: "5000",
+        description: "Sociosqu facilisis duis ...",
+        brand: "Louiz",
+        color: "Black",
+        size: "40-45",
+    },
+    {
+        id: 10,
+        name: "Moccasins",
+        url:
+            "https://threadcurve.com/wp-content/uploads/2021/01/moccasins-unisex-jan062021-min.jpg",
+        price: "15000",
+        description: "Sociosqu facilisis duis ...",
+        brand: "Yuiz",
+        color: "Brown",
+        size: "40-45",
+    },
+];
+
+export default shoes;
